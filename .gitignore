@@ -73,3 +73,11 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# APK files
+android/app/apk/
+android/app/release/
+android/app/src/main/assets/
+android/link-assets-manifest.json
+ios/link-assets-manifest.json
+react-native.config.js
